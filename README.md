@@ -13,7 +13,7 @@ LICENSE:-From July 2006 through 2007,Netbeans IDE was licensed under sun's commo
 
 REASON FOR MAKING IT OPEN SOURCE:-During the acqusition,the young Developers Who had been involved in open-source projects for most of their programming careers,mentioned the idea of open-scarcing Netbeans.Fast forward to less than six months later,the decision was made that netbeans would be open sourced'. while Sun had contributed condiderable amounts of code yo open source projects over the years, this was Sun's first sponsored open source project.
 
-MOMETIZATION MODEL:- Monetization modelling in netbeans IDE created several plugins for NetBeans IDE, notably the JS CSS minify compress plugin and theJBPMN plugin which is the topic of this interview. The plugin provides Netbeans IDE tools for working woth Business Process Modelling Notation(BPMN).
+MONETIZATION MODEL:- Monetization modelling in netbeans IDE created several plugins for NetBeans IDE, notably the JS CSS minify compress plugin and theJBPMN plugin which is the topic of this interview. The plugin provides Netbeans IDE tools for working woth Business Process Modelling Notation(BPMN).
 
 POPULARITY:- Netbeans IDE is more well known aas the populr web development tool that streamloine the building and deployment of applications. With supprt for programming languages like JAva, PHP,and HTML ,it makes sense why more tham 1.5 million people actively employ the platformn each month. Netbeans doesn't show any sign of slowing down, as there recent adoption by the Apache Foundation sets the satge for continued gtoeth in the Open Source Community.
 
